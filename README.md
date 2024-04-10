@@ -1,10 +1,11 @@
 # practicum_isye_6748
 Sandia National Labs Practicum
 
-## Data Files
+## Data Files*
 1. csv_files folder contains all CSV's with charge, discharge and impedance data
 2. extra_data_info folder contains detailed information about specific CSV files, including details about the fields inside the CSVs
 3. meta_data_files folder contains metadata files after feature engineering (code to run can be found inside battery_analysis_feature_engineering.ipynb)
+* All data in the folder was uploaded after cleaning and transforming from original matlab version
 
 ## Jupyter Notebook Files
 1. battery_analysis_charge.ipynb - Runs EDA and model selection for charge cycles
